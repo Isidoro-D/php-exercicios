@@ -1,0 +1,36 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body, html {
+    height: 100%;
+    background: linear-gradient(to bottom,#123341,  #3f5d65, #6a646f, #654f55, #c07473,#8f3433);
+    background-size: cover;
+}
+
+.title {
+    color: rgb(250, 186, 186);
+    text-align: center;
+    font-size: 2.5rem;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 50px;
+    margin-bottom: 30px;
+    text-shadow: 2px 2px 4px rgb(0, 0, 0, 0.3);
+}
+
+label {
+    color: rgb(250, 186, 186);
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.15rem;
+    margin-bottom: 10px;
+    text-shadow: 1px 1px 2px rgb(0, 0, 0, 0.1);
+}
+
+body div.php {
+    padding-top: 160px;
+    text-align: center;
+    color: rgb(255, 225, 225);
+}
